@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-image: url(https://upload.wikimedia.org/wikipedia/it/9/98/Big_Bang_Theory.png);
+}
+
+body{
+    max-width: 1000px;
+    background-color: #1231dfff;
+}
+
+img{
+    max-width: 25em;
+}
